@@ -17,7 +17,7 @@ request(url, function(error, response, page){
             
             var obj = {
                 id: i,
-                name: "",
+				name: "",
                 href: "",
                 rating: "",
 				date: ""

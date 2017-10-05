@@ -22,5 +22,13 @@
   },
   "engines": {
     "node": "6.11.x"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armmyan23/prog3final.git"
+  },
+  "bugs": {
+    "url": "https://github.com/armmyan23/prog3final/issues"
+  },
+  "homepage": "https://github.com/armmyan23/prog3final#readme"
 }
